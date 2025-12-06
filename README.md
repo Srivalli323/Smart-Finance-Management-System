@@ -1,5 +1,4 @@
 # Smart-Finance-Management-System
-# Smart Finance Management System
 
 ##  Features
 - Authentication (Email + Password with JWT)
@@ -13,6 +12,5 @@
 - Auto-Generated Monthly Report (Emailed)
 - CSV Import
 - Search & Filter
-- Duplicate Transactions
 - Multi-User Household Support
 
